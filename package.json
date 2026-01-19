@@ -1,0 +1,5 @@
+{
+  "name": "commentex",
+  "private": true,
+  "workspaces": ["packages/*"]
+}
